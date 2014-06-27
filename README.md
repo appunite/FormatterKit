@@ -207,7 +207,7 @@ iOS 4 introduced a `-doesRelativeDateFormatting` property for `NSDateFormatter`,
 
 ```objective-c
 TTTTimeIntervalFormatter *timeIntervalFormatter = [[TTTTimeIntervalFormatter alloc] init];
-[timeIntervalFormatter stringForTimeInterval:0]; // "just now"
+[timeIntervalFormatter stringForTimeInterval:0]; // "moments ago"
 [timeIntervalFormatter stringForTimeInterval:-100]; // "1 minute ago"
 [timeIntervalFormatter stringForTimeInterval:-8000]; // "2 hours ago"
 

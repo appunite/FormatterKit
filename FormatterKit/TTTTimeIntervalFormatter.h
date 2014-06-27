@@ -49,7 +49,7 @@
 @property (nonatomic, copy) NSString *pastDeicticExpression;
 
 /**
- Specifies the localized string used to express the present deictic expression. "just now" by default.
+ Specifies the localized string used to express the present deictic expression. "moments ago" by default.
  */
 @property (nonatomic, copy) NSString *presentDeicticExpression;
 

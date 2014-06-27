@@ -7,7 +7,7 @@
  */
 
 "ago" = "siden";
-"just now" = "Akkurat nå";
+"moments ago" = "Akkurat nå";
 "from now" = "fra nå";
 
 "%@ %@" = "%1$@ %2$@";
